@@ -1,7 +1,7 @@
 #!/bin/bash
 # @author: Rishabh Ranjan
 # @date: 14-12-2018
-# Dev Club Bash assignment 2
+# DevClub bash assignment 2
 
 if [[ $# != 2 ]]
 then
